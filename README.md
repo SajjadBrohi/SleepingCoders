@@ -34,9 +34,9 @@ python3 gui.py
 
 **Sajjad Brohi**
 
-Responsible for a2.py
+Responsible for a2.py.
 
 **CSSE7030 - University of Queensland**
 
-Provided all the other files as a starter for an assignment
+Provided all the other files as a starter for an assignment.
 
